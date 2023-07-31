@@ -1,6 +1,7 @@
 # Homework 6
 
-This package contains a set of Python scripts to generate a university database and fake data for it. It also contains a bunch of examples which could be used **only** with the UNIVERSITY.db file included in this package.
+This package contains a set of Python scripts to generate a university database and fake data for it.
+Also, this package contains a bunch of examples that could be used **only** with the UNIVERSITY.db file, which is included in this package.
 
 ## Package contains:
 
@@ -22,8 +23,9 @@ This package contains a set of Python scripts to generate a university database 
    2.9 query_9.sql - Find the list of courses attended by a specific student.
    2.10 query_10.sql - Find the list of courses a specific teacher teaches to a particular student.
 
-**Installation:**
+**Installation**
 Clone the repository to your local machine:
+
 
 		_git clone https://github.com/your_username/fake_data_generation.git_
 
