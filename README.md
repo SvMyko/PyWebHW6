@@ -1,8 +1,8 @@
-<h1>Homework #6<h1>
+<Homework 6
 This package contains a set of Python scripts to generate university databas and fake data for it.
 Also this package contains a bunch of examples which coud be used **only** with UNIVERSITY.db file which is included in this package.
 
-<h2>Package contains:<h2>
+Package contains:
 
 **Tools to create new database:**
 	1. create_tables.py - create new database
