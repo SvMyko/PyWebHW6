@@ -26,7 +26,7 @@ Also, this package contains a bunch of examples that could be used **only** with
 **Installation**  
 Clone the repository to your local machine:  
 
-		git clone https://github.com/your_username/fake_data_generation.git
+		git clone https://github.com/SvMyko/PyWebHW6.git
 
  Install the required libraries:
  
