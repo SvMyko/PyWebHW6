@@ -33,4 +33,4 @@ Clone the repository to your local machine:
  		pip install faker
 
 **License**
-	This project is licensed under the MIT License.
+This project is licensed under the MIT License.
